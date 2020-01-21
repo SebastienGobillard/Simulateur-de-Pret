@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: rgb(133, 133, 133);
+}
+
+table {
+    border-collapse: collapse;
+}
+
+p strong {
+    color:red;
+    font-weight: bold;
+}
+
+#boutonValider {
+    text-align: left;
+}
+
+input[type=number]{
+    width: 80%;
+}
+
+option[disabled] {
+    display: none;
+}

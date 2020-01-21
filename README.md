@@ -1,2 +1,2 @@
-# Simulateur_de_Pr-t
+# Simulateur_de_Pret
 Application Php
